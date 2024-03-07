@@ -1,7 +1,7 @@
 *.pkl
 *.jpg
 *.mp4
-*.pth
+# *.pth
 *.pyc
 __pycache__
 *.h5
